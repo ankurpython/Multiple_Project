@@ -1,0 +1,4 @@
+BookStore Application Description 
+• This Project allows the user to store the information about the books. 
+• This Project was builts with Python and their tkinter module which is a graphical user interface library and Sqlite3 library to interact with the Sqlite database. 
+• I extended the program with more functionalities like search ,update and delete entry.

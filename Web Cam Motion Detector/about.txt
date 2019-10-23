@@ -1,0 +1,5 @@
+Webcam Motion Detector Description 
+
+• The main objective of this project was to detect the motion of object and how much time the object was there in the webcam .this project also display duration of time of and display graph format. 
+• This Project was build with python and pandas,cv2,bokeh,matplotlib library and datetime module. 
+• It also display the object in blur form used by GaussianBlur method of cv2 library

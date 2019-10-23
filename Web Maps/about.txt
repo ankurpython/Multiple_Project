@@ -1,0 +1,5 @@
+Webmaps Description 
+
+• This Project was built with Python and Folium and the map has three layers like base layer,polygon layer and point layer 
+• This Webmaps is the maps that displayed through the a browser and can be visited through the web. 
+• The base layer shows the normal map where as polygon layer shows the population of country and the point the layer shows the dot of the city of the country
